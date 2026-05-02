@@ -1,99 +1,30 @@
 # Outils De Gestion Des Risques (outils-de-gestion-des-risques)
-A comprehensive API collection for risk management tools and services
 
-**URL:** [Visit APIs.json URL](https://risk-management-tools.example.com)
+Outils de Gestion des Risques refers to risk management tools and services used in French-speaking business and regulatory environments, covering risk assessment, monitoring, mitigation, reporting, and compliance. No verifiable public APIs are currently documented for this category.
 
-## Tags:
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/outils-de-gestion-des-risques/refs/heads/main/apis.yml)
 
- - risk management, compliance, assessment, monitoring, mitigation, reporting, enterprise
+## Scope
+
+- **Type:** Index
+
+## Tags
+
+- France
+- Risk Management
+- Compliance
+- Governance
 
 ## Timestamps
 
-- **Created:** 2024-01-01 
-- **Modified:** 2024-01-01 
+- **Created:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### Risk Assessment API
-API for evaluating and scoring various types of risks
-
-**Human URL:** [https://risk-management-tools.example.com/risk-assessment](https://risk-management-tools.example.com/risk-assessment)
-
-
-#### Tags:
-
- - risk, assessment, scoring, evaluation
-
-#### Properties
-
-- [Documentation](https://docs.risk-management-tools.example.com/assessment)
-- [OpenAPI](https://api.risk-management-tools.example.com/v1/assessment/openapi.json)
-- [Authentication](https://docs.risk-management-tools.example.com/authentication)
-
-### Risk Monitoring API
-Real-time monitoring and alerting for identified risks
-
-**Human URL:** [https://risk-management-tools.example.com/monitoring](https://risk-management-tools.example.com/monitoring)
-
-
-#### Tags:
-
- - risk, monitoring, alerts, real-time
-
-#### Properties
-
-- [Documentation](https://docs.risk-management-tools.example.com/monitoring)
-- [OpenAPI](https://api.risk-management-tools.example.com/v1/monitoring/openapi.json)
-- [Webhooks](https://docs.risk-management-tools.example.com/webhooks)
-
-### Risk Mitigation API
-Tools for creating and managing risk mitigation strategies
-
-**Human URL:** [https://risk-management-tools.example.com/mitigation](https://risk-management-tools.example.com/mitigation)
-
-
-#### Tags:
-
- - risk, mitigation, strategy, planning
-
-#### Properties
-
-- [Documentation](https://docs.risk-management-tools.example.com/mitigation)
-- [OpenAPI](https://api.risk-management-tools.example.com/v1/mitigation/openapi.json)
-
-### Risk Reporting API
-Generate comprehensive risk reports and analytics
-
-**Human URL:** [https://risk-management-tools.example.com/reporting](https://risk-management-tools.example.com/reporting)
-
-
-#### Tags:
-
- - risk, reporting, analytics, dashboards
-
-#### Properties
-
-- [Documentation](https://docs.risk-management-tools.example.com/reporting)
-- [OpenAPI](https://api.risk-management-tools.example.com/v1/reporting/openapi.json)
-- [Export Formats](https://docs.risk-management-tools.example.com/export-formats)
-
-### Compliance API
-Manage regulatory compliance and audit requirements
-
-**Human URL:** [https://risk-management-tools.example.com/compliance](https://risk-management-tools.example.com/compliance)
-
-
-#### Tags:
-
- - compliance, regulatory, audit, standards
-
-#### Properties
-
-- [Documentation](https://docs.risk-management-tools.example.com/compliance)
-- [OpenAPI](https://api.risk-management-tools.example.com/v1/compliance/openapi.json)
+No APIs have been documented yet. Check back for updates.
 
 ## Maintainers
 
-**FN:** Risk Management Tools Team
-
-**Email:** api-team@risk-management-tools.example.com
+- **FN:** Kin Lane
+- **Email:** kin@apievangelist.com
