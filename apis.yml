@@ -6,7 +6,18 @@ description: >-
   assessment, monitoring, mitigation, reporting, and compliance. No verifiable
   public APIs are currently documented for this category.
 url: https://raw.githubusercontent.com/api-evangelist/outils-de-gestion-des-risques/refs/heads/main/apis.yml
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/outils-de-gestion-des-risques.png
 type: Index
 tags:
   - France
